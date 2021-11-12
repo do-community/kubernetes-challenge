@@ -1,6 +1,6 @@
 # DigitalOcean Kubernetes Challenge 
 
-# Contributing
+## Contributing
 
 1. If you completed the DigitalOcean Kubernetes Challenge, please fork this repo, create a new markdown file using this naming format (`username-<kubernetes-challenge>.md`), and use the [template](template.md) to share your project info, writeup and contact information. 
 
