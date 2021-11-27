@@ -1,15 +1,17 @@
 ## Name of Project 
-* The name of your project  
- 
+* Deploy scalable NoSQL database cluster
+    - Created a NoSQL database cluster and a python script to use that database.
+    - Created a PC software to use that MongoDb cluster and perform CRUD operations on database.
 ## Link to Your Github or Gitlab Repo
-* Link to your code repository
+*  https://github.com/st593313/digital-ocean-challenge
 
 ## Link to Your Project Writeup
-* Link to your project writeup
+* https://github.com/st593313/digital-ocean-challenge
 
 ## Contact Info
-* Your Name
-* Places people can contact you (twitter, email, your website, etc.)
+* Tarun sharma
+* Email: st593313@gmail.com
+* Mobile: +91 9416222823
 
 ## Misc 
-* Any other information you'd like to share regarding your project
+* No other information just one thing thanks for the challenge @DigitalOcean. This challenge really helped me to learn docker and kubernetes. Thanks guys #EternallyGreatful.
