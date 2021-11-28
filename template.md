@@ -1,15 +1,16 @@
 ## Name of Project 
-* The name of your project  
+* Kubernetes Logging using Elastic Cloud on Kubernetes (ECK)
  
 ## Link to Your Github or Gitlab Repo
-* Link to your code repository
+* https://github.com/EN-Liu/DO-Kubernetes-Challenge
 
 ## Link to Your Project Writeup
-* Link to your project writeup
+* https://github.com/EN-Liu/DO-Kubernetes-Challenge/blob/main/README.md
 
 ## Contact Info
-* Your Name
-* Places people can contact you (twitter, email, your website, etc.)
+* Yi-En, Liu
+* yienliu0019@gmail.com
+* [Linkedin](https://www.linkedin.com/in/yi-en-liu/)
 
 ## Misc 
 * Any other information you'd like to share regarding your project
