@@ -1,15 +1,25 @@
 ## Name of Project 
-* The name of your project  
+* Deploy a virtual cluster solution  
  
 ## Link to Your Github or Gitlab Repo
-* Link to your code repository
+* https://github.com/darkmtrance
 
 ## Link to Your Project Writeup
-* Link to your project writeup
+* https://github.com/darkmtrance/kubernetes-challenge
 
 ## Contact Info
-* Your Name
-* Places people can contact you (twitter, email, your website, etc.)
+* Michael Tomaylla
+* https://www.linkedin.com/in/mtm2019
 
 ## Misc 
-* Any other information you'd like to share regarding your project
+
+https://docs.digitalocean.com/products/kubernetes/quickstart/
+
+https://docs.digitalocean.com/reference/doctl/
+
+https://www.vcluster.com/
+
+https://loft-sh.medium.com/high-velocity-engineering-with-virtual-kubernetes-clusters-7df929ac6d0a
+
+
+
