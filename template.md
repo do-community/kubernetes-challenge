@@ -12,4 +12,4 @@
 * Places people can contact you (twitter, email, your website, etc.)
 
 ## Misc 
-* Any other information you'd like to share regarding your project
+* (optional) Any other information you'd like to share regarding your project
