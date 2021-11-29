@@ -2,7 +2,7 @@
 
 ## Contributing
 
-1. If you completed the DigitalOcean Kubernetes Challenge, please fork this repo, create a new markdown file using this naming format (`username-<kubernetes-challenge>.md`), and use the [template](template.md) to share your project info, writeup and contact information. 
+1. If you completed the DigitalOcean Kubernetes Challenge, please fork this repo, create a new markdown file using this naming format (`username-kubernetes-challenge.md`, for example: `kimschles-kubernetes-challenge.md`), and use the [template](template.md) to share your project info, writeup and contact information. 
 
 Note: Please provide links to any videos insteading of uploading to github. We recommend uploading them to YouTube and then sharing the link to the video.
 
