@@ -9,4 +9,4 @@
 
 ## Contact Info
 * Mohamed Sohail
-* https://twiter.com/the_sohail_azim
+* https://twitter.com/the_sohail_azim
