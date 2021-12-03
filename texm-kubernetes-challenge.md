@@ -6,7 +6,7 @@ Deploy a scalable SQL database cluster
 https://github.com/texm/do-kubernetes-challenge
 
 ## Link to Your Project Writeup
-https://github.com/texm/do-kubernetes-challenge/README.md
+https://github.com/texm/do-kubernetes-challenge/blob/main/README.md
 
 ## Contact Info
 * Tex
