@@ -9,4 +9,5 @@
 
 ## Contact Info
 * Stella Lok
+* stellalok@gmail.com
 * https://github.com/lokst/
