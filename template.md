@@ -1,15 +1,16 @@
 ## Name of Project 
-* The name of your project  
+* Deploy scalable NoSQL database cluster and used in app "Password Manager" to save my passwords.
  
 ## Link to Your Github or Gitlab Repo
-* Link to your code repository
+* https://github.com/shivamm1605/Kubernetes
 
 ## Link to Your Project Writeup
-* Link to your project writeup
+* https://github.com/shivamm1605/Kubernetes
 
 ## Contact Info
-* Your Name
-* Places people can contact you (twitter, email, your website, etc.)
+* Name: Shivam sharma
+* Email: shivamm1605@gmail.com
+
 
 ## Misc 
-* (optional) Any other information you'd like to share regarding your project
+* Thanks for that challenge this challenge helped me to learn about kubernetes and docker.
