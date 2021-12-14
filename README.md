@@ -8,7 +8,7 @@ Note: Please provide links to any videos insteading of uploading to github. We r
 
 2. [Submit a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
-3. Be proud of yourself for completing the DigitalOcean Kubernetes Challenge and check your email inbox for information about your prize! 
+3. Be proud of yourself for completing the DigitalOcean Kubernetes Challenge and check your email inbox in January of 2022 for information about your prize! 
 
 
 
