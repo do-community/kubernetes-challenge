@@ -12,5 +12,4 @@
 * yienliu0019@gmail.com
 * [Linkedin](https://www.linkedin.com/in/yi-en-liu/)
 
-## Misc 
-* Any other information you'd like to share regarding your project
+
