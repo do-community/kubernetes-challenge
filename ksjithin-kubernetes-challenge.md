@@ -11,3 +11,5 @@
 * Jithin KS
 * https://twitter.com/jithinks_8
 
+## Misc
+The deployed registry can be accessed here http://core.hackerslab.xyz/
