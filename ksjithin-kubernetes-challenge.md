@@ -5,11 +5,9 @@
 * https://github.com/ksjithin/DigitalOceanKubeChallenge
 
 ## Link to Your Project Writeup
-* Link to your project writeup
+* https://hackerslab.netlify.app/2021/12/19/digitalocean-kubernetes-challenge/
 
 ## Contact Info
-* Your Name
-* Places people can contact you (twitter, email, your website, etc.)
+* Jithin KS
+* https://twitter.com/jithinks_8
 
-## Misc 
-* (optional) Any other information you'd like to share regarding your project
