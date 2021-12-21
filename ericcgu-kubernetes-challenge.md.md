@@ -8,7 +8,7 @@ https://github.com/ericcgu/digitalocean_k8s_challenge_2021
 https://github.com/ericcgu/digitalocean_k8s_challenge_2021/blob/main/README.md
 
 ## Contact Info
-* Your Name
+* Eric Gu
 * eric.changning.gu@gmail.com
 
 ## Misc 
