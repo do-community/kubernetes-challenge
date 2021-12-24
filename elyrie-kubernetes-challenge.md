@@ -2,10 +2,10 @@
 * Deploy a scalable SQL database cluster - MySQL using MySQL Operator 
 
 ## Link to Your Github or Gitlab Repo
-* (https://github.com/Elyrie/do_k8s_postgresql)[https://github.com/Elyrie/do_k8s_postgresql]
+* https://github.com/Elyrie/do_k8s_postgresql
 
 ## Link to Your Project Writeup
-* (https://github.com/Elyrie/do_k8s_postgresql/blob/main/README.md)[https://github.com/Elyrie/do_k8s_postgresql/blob/main/README.md]
+* https://github.com/Elyrie/do_k8s_postgresql/blob/main/README.md
 
 ## Contact Info
 * Ville Valkila
