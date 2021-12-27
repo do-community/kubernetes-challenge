@@ -8,6 +8,7 @@
  * https://github.com/mr-palindrome/Deploy-scalable-NoSQL-database-cluster/blob/main/README.md
 
  ## Contact Info
+ * Name: Nayan Das
  * E-Mail: ndas5144@gmail.com
  * LinkedIn: https://www.linkedin.com/in/mr-palindrome/
  * Twitter: https://twitter.com/Mr__palindrome
