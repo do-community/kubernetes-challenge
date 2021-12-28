@@ -6,7 +6,8 @@
 
 ## Link to Your Project Writeup
 
-* [readme.md](https://github.com/DMW2151/building-on-dok8s#readme.md)
+* [Project Readme](https://github.com/DMW2151/building-on-dok8s#readme.md)
+* [Demo Video](https://www.youtube.com/watch?v=6hQe78wCR7Q)
 
 ## Contact Info
 
