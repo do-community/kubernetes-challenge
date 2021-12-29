@@ -6,6 +6,7 @@
 
 ## Link to Your Project Writeup
 * https://github.com/epynic/cdn-on-kubernetes/blob/main/README.md
+* https://www.youtube.com/watch?v=aYwqdreAONY
 
 ## Contact Info
 * Prasanha Kumar
