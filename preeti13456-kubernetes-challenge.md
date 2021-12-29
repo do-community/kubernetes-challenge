@@ -1,5 +1,10 @@
-<<<<<<< HEAD
+
 # DigitalOcean Kubernetes Challenge 
+
+* MongoDB Cluster 
+
+## Link to Your Github or Gitlab Repo
+* https://github.com/preeti13456/Kubernetes-challenge
 
 ## Contributing
 
@@ -68,6 +73,15 @@ if this doesn't work. then copy below code and paaste it.
 ```sh
 mongodb
 ```
+
+## Link to Your Project Writeup
+* https://medium.com/@preetidevsang/mongodb-kubernetes-cluster-30049a74357d
+
+## Contact Info
+* Preeti Sharma
+* Preetidevsang@gmail.com(Gmail) , twitter(Leovarmak1) , github(Preeti13456)
+
+
 
 ## Successfully completed the task!
 credits:[arpan](https://www.youtube.com/watch?v=V5-0bJXTq4E)
