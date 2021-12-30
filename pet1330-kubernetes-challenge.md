@@ -11,5 +11,5 @@
 * Peter Lightbody
 * [LinkedIn](https://www.linkedin.com/in/plightbody/)
 * [Twitter](https://twitter.com/pet1330)
-* [Email](pet1330@gmail.com)
+* pet1330@gmail.com
 
