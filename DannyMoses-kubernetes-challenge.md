@@ -5,11 +5,11 @@
 * [repo](https://github.com/DannyMoses/DOKchallengeSQLCluster/tree/main)
 
 ## Link to Your Project Writeup
-* Link to your project writeup
+* [writeup](https://github.com/DannyMoses/DOKchallengeSQLCluster/blob/main/README.md)
 
 ## Contact Info
 * Daniel Moses
 * dannymoses555@gmail.com
 
 ## Misc 
-* What a great way to learn Kubernetes/Terraform 
+* What a great way to learn Kubernetes/Terraform! 
