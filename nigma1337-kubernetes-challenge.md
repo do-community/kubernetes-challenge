@@ -13,4 +13,4 @@
 * https://github.com/nigma1337
 
 ## Misc 
-* Hope this will continue for nextx year :-)
+* Hope this will continue for next year :-)
