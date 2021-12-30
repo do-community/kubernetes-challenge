@@ -5,7 +5,7 @@
 * [jelockro/digital-ocean-k8s-challenge](https://github.com/jelockro/digital-ocean-k8s-challenge)
 
 ## Link to Your Project Writeup
-* [Deploy an internal container registry on Kubernetes](https://github.com/jelockro/digital-ocean-k8s-challenge/blob/main/README.md)
+* [Deploy Native Build & Release Pipelines with Tekton and ArgoCDs](https://github.com/jelockro/digital-ocean-k8s-challenge/blob/main/README.md)
 
 ## Contact Info
 
