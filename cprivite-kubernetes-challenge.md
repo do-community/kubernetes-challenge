@@ -10,7 +10,8 @@
 ## Contact Info
 * Chris Privitere
 * @sabin1001 on twitter
-* sabin < at > figarocastle < dot > org
-* 
+* <sabin@figarocastle.org>
+* <cprivite@rpgamer.com>
+ 
 ## Misc 
 * This was fun, even with the snafu of the crossplane provider for DigitalOcean not actually fully existing yet. Still, was able to deploy a k8s cluster with crossplane and then also do some more basic crossplane deployments of a nginx app.
