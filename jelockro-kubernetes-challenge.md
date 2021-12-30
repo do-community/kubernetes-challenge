@@ -9,5 +9,5 @@
 
 ## Contact Info
 
-- LinkedIn: https://www.linkedin.com/in/jelockro/
+- LinkedIn: https://www.linkedin.com/in/jlockrow/
 - GitHub: https://github.com/jelockro
