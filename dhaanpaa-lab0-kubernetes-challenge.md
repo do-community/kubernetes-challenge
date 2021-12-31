@@ -5,7 +5,7 @@
 * https://github.com/dhaanpaa-lab0/silly-pun-generator
 
 ## Link to Your Project Writeup
-* https://github.com/dhaanpaa-lab0/silly-pun-generator/README.md
+* https://github.com/dhaanpaa-lab0/silly-pun-generator/blob/main/README.md
 
 ## Contact Info
 * Daniel Haanpaa
