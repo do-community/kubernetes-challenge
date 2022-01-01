@@ -2,7 +2,7 @@
 Cassandra on K8s 
 
 ## Link to Your Github or Gitlab Repo
-hhttps://github.com/marchesir/doks-cassandra
+https://github.com/marchesir/doks-cassandra
 
 ## Link to Your Project Writeup
 https://github.com/marchesir/doks-cassandra/blob/main/README.md
