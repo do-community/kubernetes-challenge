@@ -8,9 +8,9 @@ https://github.com/jakegibson/do-gitops-challenge
 https://github.com/jakegibson/do-gitops-challenge#readme
 
 ## Contact Info
-Jake Gibson
-Director of Engineering - Platform 
-[Atomic Financial](https://atomic.financial)
+Jake Gibson  
+Director of Engineering - Platform  
+[Atomic Financial](https://atomic.financial). 
 twitter/github @jakegibson
 ## Misc 
 * (optional) Any other information you'd like to share regarding your project
