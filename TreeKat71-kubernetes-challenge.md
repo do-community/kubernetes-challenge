@@ -11,5 +11,5 @@
 * [Github](https://github.com/TreeKat71)
 
 ## Misc 
-* https://159.89.244.41/fastapi
+* https://159.89.244.41/fastapi/docs
 * https://159.89.244.41/argocd
