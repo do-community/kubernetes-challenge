@@ -2,10 +2,10 @@
 * A basic deployment of a log monitoring system (Elasticsearch/Fluent-bit/Kibana) to a Digital Ocean Kubernetes cluster using Elastic Cloud on Kubernetes (ECK).
 
 ## Link to Your Github or Gitlab Repo
-* https://github.com/davidylee/ELK-DO-k8s
+* https://github.com/davidylee/EFK-digitalocean-k8s
 
 ## Link to Your Project Writeup
-* https://github.com/davidylee/ELK-DO-k8s/blob/main/README.md
+* https://github.com/davidylee/EFK-digitalocean-k8s/blob/main/README.md
 
 ## Contact Info
 * e-mail: elaman10@gmail.com
