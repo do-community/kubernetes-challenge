@@ -5,6 +5,7 @@
 * https://github.com/2801nayan/kubernetes-challenge
 
 ## Link to Your Project Writeup
+* https://github.com/2801nayan/kubernetes-challenge/blob/main/README.md
 * https://dev.to/nayankalsariya/deploy-cockroachdb-in-a-digitalocean-kubernetes-cluster-3koe
 
 ## Contact Info
