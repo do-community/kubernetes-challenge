@@ -5,6 +5,8 @@
 * [Codebase](https://github.com/TreeKat71/my-k8s-challenge)
 * [Manifests](https://github.com/TreeKat71/my-k8s-challenge-manifests)
 
+## Link to Your Project Writeup
+* [Instructions](https://github.com/TreeKat71/my-k8s-challenge-manifests)
 
 ## Contact Info
 * Muller Hsu
