@@ -5,7 +5,7 @@
 * https://github.com/iam-hitesh/k8s-scalable-message-queue
 
 ## Link to Your Project Writeup
-* https://github.com/iam-hitesh/k8s-scalable-message-queue/blob/main/README.md
+* https://github.com/iam-hitesh/k8s-scalable-message-queue/blob/main/README.md (Updated)
 
 ## Contact Info
 * Hitesh Yadav
