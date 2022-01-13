@@ -5,7 +5,7 @@
 * [gitlab.com/kylesferrazza/digitalocean-falco](https://gitlab.com/kylesferrazza/digitalocean-falco)
 
 ## Link to Your Project Writeup
-* [Writeup in README.md](https://gitlab.com/kylesferrazza/digitalocean-falco/-/blob/master/README.md)
+* [Writeup in README.md](https://gitlab.com/kylesferrazza/digitalocean-falco/-/blob/main/README.md)
 
 ## Contact Info
 * Kyle Sferrazza
