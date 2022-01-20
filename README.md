@@ -1,5 +1,7 @@
 # DigitalOcean Kubernetes Challenge 
 
+The 2021 Kubernetes Challenge Ended on 31 December 2021. Please keep an eye on our [twitter account](https://twitter.com/digitalocean) and the [Kubernetes Challenge](https://www.digitalocean.com/community/pages/kubernetes-challenge) page for info about the 2022 challenge.  
+
 ## Contributing
 
 1. If you completed the DigitalOcean Kubernetes Challenge, please fork this repo, create a new markdown file using this naming format (`username-kubernetes-challenge.md`, for example: `kimschles-kubernetes-challenge.md`), and use the [template](template.md) to share your project info, writeup and contact information. 
